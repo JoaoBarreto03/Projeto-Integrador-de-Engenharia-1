@@ -41,4 +41,4 @@ Tabela 1: Participantes do grupo (Fonte: autores, 2023).
 ## Histórico de versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-|  `1.0`   | 01/10/2023 | Criação da primeira versão | [João Barreto](https://github.com/JoaoBarreto03) | [João Barreto](https://github.com/JoaoBarreto03) |
+|  `1.0`   | 01/10/2023 | Criação da primeira versão do documento | [João Barreto](https://github.com/JoaoBarreto03) | [João Barreto](https://github.com/JoaoBarreto03) |
