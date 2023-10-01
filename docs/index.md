@@ -1,6 +1,7 @@
 ## Objetivo da disciplina
 
 A disciplina de PI-1 tem por objetivo reunir diversos estudantes de todos os cursos oferecidos pela Universidade de Brasília - Faculdade do Gama (UnB-FGA) para a construção de um projeto que envolva boa parte das áreas da engenharia, como:
+
 - Aeroespacial
 - Eletrônica
 - Energia
